@@ -1,0 +1,32 @@
+@import "tailwindcss";
+/* @import "tailwindcss"; */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+/* Custom Animation for Dynamic Gradient */
+
+  /* @keyframes gradient {
+    0% { background-position: 0% 50%; }
+    50% { background-position: 100% 50%; }
+    100% { background-position: 0% 50%; }
+  }
+   */
+/* Apply animation only to the background */
+
+/* .bg-animate {
+    background: linear-gradient(270deg, #7c3aed, #ec4899, #6366f1);
+    background-size: 200% 200%;
+    animation: gradient 6s infinite alternate ease-in-out;
+  } */
+  
+  /* Glassmorphism effect for content */
+
+  /* .content-container {
+    @apply relative z-10 p-6 text-center text-white;
+    background: rgba(255, 255, 255, 0.1);
+    backdrop-filter: blur(10px);
+    border-radius: 12px;
+  } */
