@@ -1,4 +1,4 @@
-tailwindcss4@0.0.0 C:\Users\2111CS020560\devconnect\DevConnect\frontend1\tailwindcss4
+tailwindcss4@0.0.0 
 ├── @eslint/js@9.19.0
 ├── @headlessui/react@2.2.0
 ├── @reduxjs/toolkit@2.5.1
