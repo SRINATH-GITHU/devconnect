@@ -17,7 +17,7 @@ from datetime import timedelta
 BASE_DIR = Path(__file__).resolve().parent.parent
 
 STATICFILES_DIRS = [
-    os.path.join(BASE_DIR, '..frontend1/tailwindcss4/dist')  # React build folder
+    os.path.join(BASE_DIR, '../frontend1/tailwindcss4/dist')  # React build folder
 ]
 STATIC_ROOT = os.path.join(BASE_DIR,'static/')
 # Quick-start development settings - unsuitable for production
